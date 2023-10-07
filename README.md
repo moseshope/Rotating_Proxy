@@ -31,6 +31,6 @@ options:
   -v, --verbose         Verbose mode (default: False)
 ```
 
-### DKing@ZeroSec
+### Moseshope
 
 
